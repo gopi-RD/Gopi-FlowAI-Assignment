@@ -148,23 +148,7 @@
                             
 
 
-            
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### Structure  
 
     backend/
 │
@@ -172,7 +156,7 @@
 ├── routes/           # API routes
 ├── controllers/      # Business logic for routes         
 ├── .env              # Environment variables (like MongoDB URI)
-├── index.js          # Main entry point  # Configurations (e.g., MongoDB connection)
+├── index.js          # Main entry point  # Configurations (MongoDB connection)
 └── package.json      # Project dependencies and scripts    
          
     
